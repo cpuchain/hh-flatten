@@ -1,3 +1,3 @@
-# ts-template
+# hh-flatten
 
-TypeScript template for CPUchain projects
+Extending hardhat flatten task to flatten all files
